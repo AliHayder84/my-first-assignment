@@ -71,10 +71,9 @@ color: #25243273;
 
 .action-container{display: flex;
 gap: 220px;
-margin-left:141px;
-margin-right:100px;
-margin-top: 116px;
-margin-bottom: 116px;}
+justify-content: space-between;
+margin-right: 159px;
+margin-left: 141px;}
 
 /* user section */
 .stat-section{text-align: center;
@@ -97,3 +96,7 @@ color: #4E47FF;}
 
 .stat-description{font-size: 20px;
 color: #0000005d;}
+
+
+/* review section */
+.second-rvw-img{border-radius:50%;}
