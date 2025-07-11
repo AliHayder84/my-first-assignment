@@ -26,9 +26,7 @@ border-radius:10px;}
 
 /* header */
 header{background-image: url(../Assets/Hero-bg.png);
-
-width:1500px;
-height: 698px;}
+}
 
 /* nav section */
 nav{display: flex;
