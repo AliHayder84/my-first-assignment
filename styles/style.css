@@ -126,3 +126,17 @@ color: #252432;
 font-size: 42px;
 font-weight:bold;}
 
+/* conference section */
+
+.conference{text-align: center;}
+
+.conference-title{font-weight: bold;
+font-size: 50px;}
+
+.conference-description{font-size:medium;
+font-weight: 300px;
+color: #00000077;}
+
+.conference-img{margin-top: 20px;
+margin-bottom: 71px;
+border-radius:48px;}
