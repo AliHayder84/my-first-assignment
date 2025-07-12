@@ -189,6 +189,8 @@ justify-content: center;}
 .lists{list-style: none;
 color:#8987A1 ;}
 
+.lists a{text-decoration: none;}
+
 .logo{text-align: center;}
 
 .logo-title{font-size: 100px;
