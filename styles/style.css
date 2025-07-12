@@ -140,3 +140,44 @@ color: #00000077;}
 .conference-img{margin-top: 20px;
 margin-bottom: 71px;
 border-radius:48px;}
+
+
+/* lets get in touch section */
+.basic-info label{display: block;
+font-size: 18px;
+font-weight: 500px;}
+
+.basic-info input{border-radius: 5px;
+width: 100%;
+border: 1px solid #e0e0e0;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+
+
+.basic-info textarea{border-radius: 5px;
+border: 1px solid #e0e0e0;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05)}
+
+.lets-get-in-touch{display: flex;
+justify-content: space-around;
+margin-top: 92.33px;
+margin-bottom: 104px;}
+
+.touch-title{font-size: 97px;
+font-weight: bold;
+color: #000000;}
+
+.submit{width: 100%;
+font-size:16px;
+font-weight: bold;
+color: #FFFFFF;
+background-color: #4E47FF;
+border:none;
+padding:12px 36px;
+border-radius:10px;}
+
+
+.email{margin-bottom: 19px;}
+.name{margin-bottom: 19px;}
+.message{margin-bottom: 19px;}
